@@ -21,6 +21,3 @@ This repository hosts a fully client-side interactive map of international arms 
    - Branch: **main** (or `master`), folder: **/** (root)
 4. After Pages builds, your map will be available at the GitHub Pages URL shown in the settings page.
 
-## License
-
-Choose an open-source license appropriate for your project (for example, MIT for code and CC BY for data) and add it here as `LICENSE` once you decide.
